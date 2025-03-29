@@ -1,20 +1,33 @@
-<h2 align="center">Paulo Pitta</h2>
+<h2 align="center">🚀 Paulo Pitta | Back-End & Fullstack Developer 🚀</h2>
 
-- 👋 Hi, I’m @paulopitta97, Web Developer graduated in Technician in Informatics and Bachelor in Information Systems, both from CEFET/RJ - Nova Friburgo. I am participatory, motivated, responsible and organized, always committed to work and looking for new knowledge. I charge myself a lot and I'm always wanting to evolve, professionally and personally. I started studying programming in 2012, at the age of 15. I've been working with web programming for over 5 years (mainly with PHP on the backend). I'm looking for new knowledge.
-- 👀 I’m interested in learning new technologies that are on the rise in the job market.
-- 🌱 I’m currently learning NodeJS (TypeScript), React, React Native and especially about microservices.
-- 💞️ I’m looking to collaborate with the community to share experiences and also acquire new knowledge.
-- 📫 How to reach me:
+### 🛠 About Me  
+Hi! I'm a passionate developer with over 10 years of experience in web development, primarily focused on back-end development with PHP and modern frameworks.  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Pitta-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulopitta97/)](https://www.linkedin.com/in/paulopitta97/) 
-[![Gmail Badge](https://img.shields.io/badge/-paulopitta97@gmail.com-CD3C30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulopitta97@gmail.com)](mailto:paulopitta97@gmail.com)
+🎓 **Education**  
+- Technician in Informatics and Bachelor in Information Systems from CEFET/RJ - Nova Friburgo.  
 
-<h2 align="center">📊 Status GitHub 📊</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopitta97&layout=compact&theme=react"> 
-  </p>
+💡 **Who am I?**  
+- Always motivated to learn and grow, both professionally and personally.  
+- Committed to best coding practices and scalable architectures.  
+- Passionate about solving problems and building efficient solutions.  
 
-<!---
-paulopitta97/paulopitta97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Technologies & Tools  
+🖥️ **Back-end:** PHP (Laravel, Slim), Node.js (TypeScript), Microservices (Kafka/RabbitMQ)<br/>
+🌐 **Front-end:** React, React Native (Mobile)<br/>
+📦 **Databases:** MySQL/MariaDB, PostgreSQL, MongoDB, Redis<br/>
+☁️ **DevOps:** Docker, AWS (EC2, SES, S3, ROUTE53), CI/CD  <br/>
+🔧 **Others:** Git, Dependency Manager, Design Patterns, Architecture (MVC)
+
+### 📚 Currently Learning  
+- **Microservices Architecture** 🔗  
+- **Node.js with TypeScript** ⚡  
+- **Fullstack Development with React and React Native** 🎨  
+
+### 💡 How to Reach Me  
+[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Pitta-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulopitta97/)](https://www.linkedin.com/in/paulopitta97/)  
+[![Gmail Badge](https://img.shields.io/badge/-paulopitta97@gmail.com-CD3C30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulopitta97@gmail.com)](mailto:paulopitta97@gmail.com)  
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopitta97&layout=compact&theme=react">
+</p>
